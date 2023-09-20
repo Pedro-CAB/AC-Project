@@ -33,7 +33,50 @@ Associates a series of stats with a player.
 - **deathDate:** Player's date of death ("0000-00-00" in case the player is still alive)
 
 ## Players-Teams Table
-
+Associates a player with a year, the team they played in that year and a set of stats on their performance.
+- **playerID:** Identifies a player
+- **year:** Year the player played in the team
+- **stint:** ???
+- **tmID:** Identifies the team the player played in
+- **lgID:** Identifies the league the stats refer to
+- **GP:** Games Played
+- **GS:** Games Started(???)
+- **minutes:** Minutes Played
+- **points:** Points Scored (???)
+- **oRebounds:** Offensive Rebounds
+- **dRebounds:** Defensive Rebounds
+- **rebounds:** Total Rebounds
+- **assists:** Assists
+- **steals:** Steals
+- **blocks:** Blocks
+- **turnovers:** Turnovers
+- **PF:** ???
+- **fgAttempted:** Field Goals Attempted
+- **fgMade:** Field Goals Made
+- **ftAttempted:** Free Throws Attempted
+- **ftMade:** Free Throws Made
+- **threeAttempted:** Three Point Field Goals Attempted
+- **threeMade:** Three Point Field Goals Made
+- **dq:** ???
+- **PostGP:** Games Played in the Playoffs
+- **PostGS:** Games Started in the Playoffs
+- **PostMinutes:** Minutes Played in the Playoffs
+- **PostPoints:** Points Scored in the Playoffs
+- **PostoRebounds:** Offensive Rebounds in the Playoffs
+- **PostdRebounds:** Defensive Rebounds in the Playoffs
+- **PostRebounds:** Total Rebounds in the Playoffs
+- **PostAssists:** Assists in the Playoffs
+- **PostSteals:** Steals in the Playoffs
+- **PostBlocks:** Blocks in the Playoffs
+- **PostTurnovers:** Turnoves in the Playoffs
+- **PostPF:** ???
+- **PostfgAttempted:**
+- **PostfgMade:**
+- **PostftAttempted:**
+- **PostftMade:**
+- **PostthreeAttempted:**
+- **PostthreeMade:**
+- **PostDQ:**
 ## Series Post Table
 
 ## Teams
