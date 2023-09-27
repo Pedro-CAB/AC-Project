@@ -6,6 +6,6 @@ This project consists on the development of a model that allows us to predict wh
 - [Official NBA Stats Website](https://www.nba.com/stats)
 - [Official WNBA Stats Website](https://stats.wnba.com/)
 ## Project Developed By
--
+- Marcelo Apolinário, up201603903@fe.up.pt
 - Filipe Fonseca, up202003474@fe.up.pt
 - Pedro Gomes, up202006086@fe.up.pt
