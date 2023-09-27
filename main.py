@@ -2,17 +2,6 @@
 import pandas as pd
 import analysis
 
-def analyze_missing_data(table):
-    for column in table.columns:
-        values = table[column].count()
-        lines = table.shape[0]
-        if (values != lines):
-            print(f"Valores em Falta Encontrados na Coluna: {column}")
-            print(f"Valores em Falta: {values}")
-            print(f"Valores em Falta: {lines - values}")
-            print(f"Número de Itens: {lines}")
-            print("---")
-
 awards_players = pd.read_csv('dataset/awards_players.csv')
 coaches = pd.read_csv('dataset/coaches.csv')
 players = pd.read_csv('dataset/players.csv')
