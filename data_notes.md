@@ -4,7 +4,7 @@
 Represents an association between a player and an award they received.
 - **playerID:** Player identifier
 - **award:** Name of the award
-- **year:** Year the player was awarded
+- **year:** Year the player was awarded with this award
 - **lgID:** League identifier for the league where the player was awarded
 
 ## Coaches Table
