@@ -2,6 +2,7 @@
 This project consists on the development of a model that allows us to predict which WNBA teams will be qualified to the play-offs. The project is being developed in the Machine Learning course, at the first year of the Masters Degree in Computer Engineering and Informatics at FEUP, in the year of 2023.
 ## Index
 - [Notes on the Dataset](data_notes.md)
+- [Project Notebook](data_analysis.ipynb)
 ## Useful Links
 - [Official NBA Stats Website](https://www.nba.com/stats)
 - [Official WNBA Stats Website](https://stats.wnba.com/)
